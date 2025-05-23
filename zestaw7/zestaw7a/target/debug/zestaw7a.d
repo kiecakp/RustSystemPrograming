@@ -1,1 +1,1 @@
-/home/pati/umcs/rust/zadania/zestaw7a/target/debug/zestaw7a: /home/pati/umcs/rust/zadania/zestaw7a/src/main.rs
+/home/pati/GIT/RustSystemPrograming/zestaw7/zestaw7a/target/debug/zestaw7a: /home/pati/GIT/RustSystemPrograming/zestaw7/zestaw7a/src/main.rs

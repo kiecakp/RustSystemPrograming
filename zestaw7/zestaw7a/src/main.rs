@@ -6,7 +6,7 @@ struct Rgb {
 }
 
 impl Rgb {
-    fn from_3u8(r: u8, g: u8, b: u8) -> Rgb{
+    fn from_3u8(r: u8, g: u8, b: u8) -> Self{
         Rgb {r, g, b}
     }
 
@@ -35,11 +35,11 @@ impl Rgb {
         }
     }
 
-    fn white() -> Rgb{
+    fn white() -> Self{
         Rgb::from_3u8(255, 255, 255)
     }
 
-    fn black() -> Rgb{
+    fn black() -> Self{
         Rgb::from_3u8(0, 0, 0)
     }
 
