@@ -1,7 +1,7 @@
 ## POLECENIA ZADAŃ:
 
 1. Napisz funkcję o nagłówku  
-   fn zamien_syst8_na_syst2(z: &str) -> Option<String>  
+   fn zamien_syst8_na_syst2(z: &str) -> Option<String>'
    zamieniającą zapis liczby całkowitej bez znaku w systemie ósemkowym na zapis w systemie dwójkowym. Wynik ma być najkrótszy możliwy, niepusty. Wynik None ma oznaczać wystąpienie w parametrze z niedozwolonego znaku (spoza cyfr ósemkowych) lub pusty napis w parametrze.
 
 3. Napisz funkcję o nagłówku  
