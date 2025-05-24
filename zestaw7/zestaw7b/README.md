@@ -1,4 +1,4 @@
-POLECENIE ZADANIA:
+## POLECENIE ZADANIA:
 
 Zdefiniuj typ strukturalny (wraz z implementacją metod) przeznaczony do przechowywania macierzy prostokątnej wartości typu f64. Weź pod uwagę nastepujące możliwości:
 
