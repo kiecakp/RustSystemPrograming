@@ -1,3 +1,5 @@
+POLECENIE ZADANIA:
+
 Zdefiniuj typ strukturalny (wraz z implementacją metod) przeznaczony do przechowywania macierzy prostokątnej wartości typu f64. Weź pod uwagę nastepujące możliwości:
 
 - konstruktor new(wysokość, szerokość, wypełniacz) -> Macierz
