@@ -10,6 +10,6 @@
 
 4. Napisz funkcję o nagłówku  
    `fn wartosc_syst8(z: &str) -> Option<u8>`  
-   obliczającą wartość całkowitą bez znaku zapisaną w systemie ósemkowym — pod warunkiem, że mieści się na ośmiu bitach. Jeśli nie (lub w zapisie występuje znak inny niż cyfra ósemkowa lub parametr jest pusty), to wynikiem jest None.
-   Uwaga 1: Funkcję tę należy zbudować z funkcji z zadań poprzednich.
+   obliczającą wartość całkowitą bez znaku zapisaną w systemie ósemkowym — pod warunkiem, że mieści się na ośmiu bitach. Jeśli nie (lub w zapisie występuje znak inny niż cyfra ósemkowa lub parametr jest pusty), to wynikiem jest None.  
+   Uwaga 1: Funkcję tę należy zbudować z funkcji z zadań poprzednich.  
    Uwaga 2: Zrób dwie wersje tej funkcji — pierwszą bez znaku zapytania, a drugą ze znakiem zapytania.
