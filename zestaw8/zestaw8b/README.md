@@ -1,3 +1,5 @@
+## POLECENIA ZADAŃ:
+
 1. Zaprojektuj typ Towar (wraz z ewentualnymi typami pomocniczymi), który służy do przechowywania następujących cech towaru w pewnej hutowni:
    - opis/nazwa,
    - jednostka (sztuki, litry, kilogramy),
