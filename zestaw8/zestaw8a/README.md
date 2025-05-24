@@ -1,9 +1,13 @@
+## POLECENIA ZADAŃ:
+
 1. Oprogramuj typ:
+```
 struct RandGen {
     seed: i64
 }
+```
 tak by działało (i wyświetlało za każdym razem true):
-
+```
 fn main() {
     let mut generator1 = RandGen::new(123);
     let a = generator1.gen_range(3, 15);
@@ -27,8 +31,10 @@ fn main() {
     println!("{}", b <= 15);
     println!("{}", c <= 15);
 }
+```
 
 2. Stwórz typ Urna, który będzie mógł przechowywać znaki i losować z nich (za pomocą naszego generatora). Poniższe testy powinny dawać za każdym razem true.
+```
 fn main() {
     let mut urna = Urna::new(RandGen::new(123));
 
@@ -60,3 +66,4 @@ fn main() {
     println!("{:?}", z.is_none());
     println!("{:?}", urna.rozmiar() == 0);
 }
+```
