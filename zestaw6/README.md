@@ -1,4 +1,4 @@
-POLECENIA ZADAŃ:
+## POLECENIA ZADAŃ:
 
 Zadania wykonaj w dwóch wersjach — przy użyciu pętli oraz bez ich użycia (z iteratorami zamiast tego).
 1. Utwórz (i wyświetl) wektor zawierający:
@@ -15,6 +15,6 @@ Zadania wykonaj w dwóch wersjach — przy użyciu pętli oraz bez ich użycia (
    - wektor zawierający te same napisy ale odwrócone;
    - wektor napisów zawierających podwojoną literę (np.: inny, pizza, brutto, lekki, dzienny, itp).
 
-3. Napisz funkcję
-   fn indeksy(tablica: ..., element: &str) -> ...
+3. Napisz funkcję  
+   `fn indeksy(tablica: ..., element: &str) -> ...`  
    która zwróci wektor indeksów (licząc od zera), na których znajduje się w zadanej tablicy podany element.
