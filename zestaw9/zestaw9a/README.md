@@ -4,7 +4,7 @@
    - pik,
    - kier,
    - karo,
-   - trefl.
+   - trefl.  
 Zaprojektuj typ wyliczeniowy, który będzie mógł reprezentować dane o kolorze z dodatkowym warunkiem, że są one uporządkowane jak w brydżu (zgodnie z wypunktowaniem powyżej, gdzie są podane malejąco). Przetestuj wszystko.  
 
 Wskazówka: Derywuj odpowiednią cechę i ułóż warianty w odpowiedniej kolejności.
@@ -13,5 +13,5 @@ Wskazówka: Derywuj odpowiednią cechę i ułóż warianty w odpowiedniej kolejn
    - brak błędu;
    - zły format pliku;
    - plik nie istnieje (z tym błędem musi być związana wartość nazwy pliku);
-   - plik zbyt duży (z tym błędem muszą być związane dwie wartości — rozmiar aktualny i rozmiar maksymalny).
+   - plik zbyt duży (z tym błędem muszą być związane dwie wartości — rozmiar aktualny i rozmiar maksymalny).  
 Dodatkowo zaimplementuj dla tego typu metodę o nazwie pokaz_komunikat, która wyświetli pełny komunikat o podanym błędzie (wraz z jego danymi).
